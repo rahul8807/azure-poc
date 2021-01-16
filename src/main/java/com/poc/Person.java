@@ -14,7 +14,7 @@ public class Person {
     }
 
     public String getRandomDiscount() {
-        return "10%";
+        return "10% Discount on our portal";
     }
 
 }
